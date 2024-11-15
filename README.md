@@ -46,14 +46,14 @@ This project is a Flutter-based MP3 player that features audio playback controls
 ## GIF Demonstration
 
  Here is a short demonstration of the application in action:
- [MP3 Player Demo](assets/gifs/VID-20241115-WA0005-ezgif.com-optimize.gif)
+ [[MP3 Player Demo](https://github.com/anilvzecdata/flutter_mp3_player/blob/master/lib/assets/gif/VID-20241115-WA0005-ezgif.com-optimize.gif)]
  
  
 ## Installation
 
 To run this project locally, follow these steps:
 
-1. Clone the repository:Navigate to the project directory:<br/> git clone https://github.com/anilvishwakarma0529/flutter_mp3_player.git
+1. Clone the repository:Navigate to the project directory:<br/> git clone [https://github.com/anilvishwakarma0529/flutter_mp3_player.git]
 2. Navigate to the project directory:<br/> cd flutter_mp3_player
 3. Install the dependencies:<br/>flutter pub get
 4. Run the application:<br/> flutter run
